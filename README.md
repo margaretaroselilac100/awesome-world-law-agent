@@ -61,6 +61,12 @@ This is the most comprehensive survey of its kind, integrating and expanding upo
   - [Practice Management & Legal Ops](#practice-management--legal-ops)
   - [Intellectual Property & Patent Tech](#intellectual-property--patent-tech)
   - [MCP Servers for Legal](#mcp-servers-for-legal)
+- [Agentic Infrastructure & OpenClaw](#agentic-infrastructure--openclaw)
+  - [Core Frameworks](#core-frameworks)
+  - [Legal Skills](#legal-skills)
+  - [Legal MCP Servers](#legal-mcp-servers)
+  - [Multi-Agent Frameworks](#multi-agent-frameworks)
+  - [Protocols](#protocols)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Citation](#citation)
 - [Contributing](#contributing)
@@ -256,6 +262,56 @@ This is the most comprehensive survey of its kind, integrating and expanding upo
 
 - **PatSnap**: Patent analytics and intelligence powered by AI.
 - **Anaqua**: Comprehensive IP management system.
+
+## Agentic Infrastructure & OpenClaw
+
+This section covers the foundational infrastructure that powers legal agents, including core frameworks like OpenClaw, reusable skill libraries, and the protocols that enable agent-to-tool and agent-to-agent communication.
+
+### Core Frameworks
+
+| Name | Stars | Description |
+|---|---|---|
+| [OpenClaw](https://github.com/openclaw/openclaw) | 312k | Personal AI assistant, multi-channel, skills-based. The de facto standard. |
+| [gitclaw](https://github.com/SawyerHood/gitclaw) | - | OpenClaw on GitHub Actions (no server needed). |
+| [webclaw](https://github.com/ibelick/webclaw) | - | Fast web client for OpenClaw. |
+| [NanoClaw, ZeroClaw, etc.](https://www.aimagicx.com/blog/openclaw-alternatives-comparison-2026) | - | A growing ecosystem of OpenClaw alternatives and variants. |
+
+### Legal Skills
+
+Skills are reusable, portable instructions that encode legal expertise into AI workflows. They are a critical component for building specialized legal agents.
+
+| Collection | Stars | Description |
+|---|---|---|
+| [awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills) | 169 | Curated list of skills for commercial law, privacy, compliance, employment, and more. |
+| [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 37.1k | 5,400+ community skills, including a dedicated legal category. |
+| [law skill by ivangdavila](https://skillsmp.com/skills/openclaw-skills-skills-ivangdavila-law-skill-md) | 1.9k | Official OpenClaw skill for general legal understanding. |
+
+### Legal MCP Servers
+
+Model Context Protocol (MCP) servers act as bridges, giving agents secure access to external tools, databases, and APIs.
+
+| Server | Description |
+|---|---|
+| [us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) | Comprehensive US legislation (Congress.gov, Federal Register, US Code, CourtListener). |
+| [court-listener-mcp](https://github.com/Travis-Prall/court-listener-mcp) | Access to the full CourtListener legal database. |
+| [Vaquill AI MCP](https://www.vaquill.com/) | Access to 20M+ Indian judgments. |
+| [Obsidian RI MCP](https://obsidianri.com/blog/top-regulatory-intelligence-mcp-2026) | Real-time regulatory monitoring from official government sources. |
+| [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) | Secure bridge between Claude.ai and a self-hosted OpenClaw assistant. |
+
+### Multi-Agent Frameworks
+
+These frameworks are used to build and coordinate teams of specialized agents that can collaborate on complex legal tasks.
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)**: Graph-based multi-agent orchestration.
+- **[CrewAI](https://github.com/joaomdmoura/crewAI)**: Role-based multi-agent framework for collaborative intelligence.
+- **[AutoGen](https://github.com/microsoft/autogen)**: Microsoft's framework for multi-agent conversation and problem-solving.
+
+### Protocols
+
+- **[MCP (Model Context Protocol)](https://www.pulsemcp.com/posts/newsletter-openclaw-goes-viral-mcp-apps-release-agentic-coding-accelerating)**: The standard for agent-to-tool connections.
+- **[A2A (Agent-to-Agent)](https://www.ruh.ai/blogs/ai-agent-protocols-2026-complete-guide)**: For multi-agent coordination.
+- **[ACP (Agent Communication Protocol)](https://www.ruh.ai/blogs/ai-agent-protocols-2026-complete-guide)**: For agent messaging.
+- **[adeu](https://mcpmarket.com/server/adeu-1)**: Agentic DOCX Redlining Engine for Word Track Changes.
 
 ### MCP Servers for Legal
 
