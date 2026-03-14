@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+This repo is created and maintained by [**Sirui Han**](https://siruihan.com/).
+
 A curated list of papers, articles, and resources on AI Agents for the legal domain, inspired by [Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models).
 
 This repository provides a comprehensive overview of the advancements in AI, particularly Large Language Models (LLMs) and agentic systems, within the legal field. It covers foundational models, key application areas, evaluation benchmarks, ethical considerations, and practical tools.
@@ -185,7 +187,7 @@ If you find this repository useful, please consider citing and giving this list 
 
 ```
 @misc{awesome-world-law-agent,
-  author = {Manus AI},
+  author = {Sirui Han},
   title = {Awesome World Law Agent: A curated list of papers, articles, and resources on AI Agents for the legal domain},
   year = {2026},
   publisher = {GitHub},
