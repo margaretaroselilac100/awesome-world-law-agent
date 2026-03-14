@@ -326,7 +326,7 @@ These frameworks are used to build and coordinate teams of specialized agents th
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/your-username/awesome-world-law-agent}}
+  howpublished = {\url{https://github.com/siruihan2024/awesome-world-law-agent}}
 }
 ```
 
