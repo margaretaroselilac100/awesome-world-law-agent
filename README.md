@@ -211,6 +211,7 @@ An unparalleled, comprehensive, and continuously updated survey of the **World L
 - **Question Answering**: [JEC-QA](https://github.com/thunlp/jec-qa) (26K Chinese bar exam questions), [CaseHOLD](https://github.com/reglab/casehold) (53K US case law QA)
 - **Summarization**: [BillSum](https://aclanthology.org/D19-5406/) (22K US bills), [Multi-LexSum](https://multilexsum.github.io/) (9.3K expert summaries)
 - **Classification**: [CUAD](https://www.atticusprojectai.org/cuad/) (510 contracts), [LEDGAR](https://aclanthology.org/2020.lrec-1.155/) (60K provisions)
+- **Legal Reasoning (O1-style)**: [HK-O1aw](https://github.com/HKAIR-Lab/HK-O1aw ) (15.9K Chinese QTA triples with chain-of-thought annotations for Hong Kong law)
 
 ## Tools, Platforms & Products
 
