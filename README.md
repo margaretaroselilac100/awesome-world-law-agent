@@ -41,6 +41,7 @@ Contributions are welcome! Please feel free to submit pull requests or reach out
 - **AI Agents and the Law**, arXiv 2025. [[Paper](https://arxiv.org/html/2508.08544v1)]
 - **The Rise and Potential of Large Language Model Based Agents: A Comprehensive Survey**. [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 - **Natural language processing for the legal domain: A survey of tasks, datasets, models, and challenges**, ACM Computing Surveys 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3777009)]
+- **Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**, CHI EA 2025. [[Paper](https://dl.acm.org/doi/10.1145/3711956.3712089)]
 
 ## Foundation & Pre-trained Models
 
@@ -60,6 +61,7 @@ Contributions are welcome! Please feel free to submit pull requests or reach out
 - **Legal 3Agent — a multiagent approach to legal reasoning**, Medium. [[Blog](https://medium.com/mitb-for-all/legal-3agent-a-multiagent-approach-to-legal-reasoning-6961105fcee8)]
 - **Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models**, arXiv 2025. [[Paper](https://arxiv.org/abs/2511.07979)]
 - **On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations**, KDD 2025. [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761057)]
+- **Reimagining Legal Fact Verification with GenAI: Toward Effective Human-AI Collaboration**, CHI 2026. [[Paper](https://dl.acm.org/doi/abs/10.1145/3613904.3642314)]
 
 ### Retrieval-Augmented Generation (RAG)
 
@@ -81,6 +83,7 @@ Contributions are welcome! Please feel free to submit pull requests or reach out
 - **Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**, EMNLP 2023. [[Paper](https://aclanthology.org/2023.emnlp-main.740/)]
 - **AgentsBench: A Multi-Agent LLM Simulation Framework for Legal Judgment Prediction**, MDPI 2025. [[Paper](https://www.mdpi.com/2079-8954/13/8/641)]
 - **A Multi-Stage Framework for Legal Judgment Prediction with Large Language Models**, IEEE Access 2024. [[Paper](https://ieeexplore.ieee.org/document/10750819/)]
+- **LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**, ACL 2025. [[Paper](https://aclanthology.org/2025.acl-long.115/)]
 
 ### Courtroom Simulation
 
@@ -100,6 +103,7 @@ Contributions are welcome! Please feel free to submit pull requests or reach out
 - **AI Legal Compliance for U.S. Law Firms (2026 Guide)**, Clio 2026. [[Article](https://www.clio.com/blog/ai-legal-compliance/)]
 - **Automating financial compliance with AI: A New Era in regulatory technology (RegTech)**. [[Paper](https://www.researchgate.net/profile/Hariharan-Pappil-Kothandapani-2/publication/388405013_Automating_financial_compliance_with_AI_A_New_Era_in_regulatory_technology_RegTech/links/6797aeb996e7fb48b9a299a6/Automating-financial-compliance-with-AI-A-New-Era-in-regulatory-technology-RegTech.pdf)]
 - **Legal Compliance Evaluation of Smart Contracts using Process Mining and Large Language Models**, IEEE 2025. [[Paper](https://ieeexplore.ieee.org/iel8/11114381/11114414/11114661.pdf)]
+- **Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**, EMNLP 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.1/)]
 
 ## Advisory Consultation & Transactions
 
@@ -128,12 +132,18 @@ Contributions are welcome! Please feel free to submit pull requests or reach out
 - **LexGLUE: A Benchmark Dataset for Legal Language Understanding in English**, ACL 2022. [[Paper](https://aclanthology.org/2022.acl-long.297/)]
 - **DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**. [[GitHub](https://github.com/FudanDISC/DISC-LawLLM)]
 - **LegalAgentBench: Evaluating LLM Agents in Legal Domain**, ACL 2025. [[Paper](https://aclanthology.org/2025.acl-long.116/)]
+- **SafeLawBench: Towards Safe Alignment of Large Language Models**, ACL 2025. [[Paper](https://aclanthology.org/2025.acl-long.117/)]
+- **PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**, ACL 2025. [[Paper](https://aclanthology.org/2025.acl-long.118/)]
 
 ## Ethics, Fairness, and Bias
 
 - **Bias and Fairness in Artificial Intelligence**, New York State Bar Association 2023. [[Article](https://nysba.org/bias-and-fairness-in-artificial-intelligence/)]
 - **AI and Legal Ethics: Bias, Data Use, and Professional Duty**, Lexitas 2025. [[Article](https://www.lexitaslegal.com/resources/ai-ethics-and-bias-in-data-use)]
 - **Assessing trustworthy AI: Technical and legal perspectives on AI regulation**, Artificial Intelligence and Law 2024. [[Paper](https://link.springer.com/article/10.1007/s10506-024-09405-z)]
+- **Consumer Protection in AI–Governed Credit Markets: Algorithmic Bias and the Right to Explanation**, UI JLTP 2026. [[Paper](https://publish.illinois.edu/jltp/files/2026/02/Huang.pdf)]
+- **Simulated Justice: How AI Alignment Replaces Conflict with Coherence**, IHRLR 2026. [[Paper](https://heinonline.org/HOL/LandingPage?handle=hein.journals/ihrlr20&div=1&id=&page=)]
+- **When AI Sounds Judicious: How AI Alignment Mimic Procedure While Evading Accountability**, UCLA JLT 2026. [[Paper](https://www.law.ucla.edu/publications/ucla-journal-law-technology/volume-29-no-1-fall-2025/when-ai-sounds-judicious)]
+- **PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs**, ACL 2025. [[Paper](https://aclanthology.org/2025.acl-long.119/)]
 
 ## Tools & Commercial Products
 
